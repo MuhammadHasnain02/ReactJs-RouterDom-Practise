@@ -2,7 +2,7 @@ import { Route, Routes } from 'react-router-dom'
 import Home from './pages/Home'
 import ProductDetail from './pages/ProductDetail'
 import NotFound from './pages/NotFound'
-import Collection from './pages/collection'
+import Collection from './pages/Collection'
 import About from './pages/About'
 import Cart from './pages/Cart'
 
