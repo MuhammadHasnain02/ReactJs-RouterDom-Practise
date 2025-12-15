@@ -1,7 +1,7 @@
 // import { useContext } from "react";
 import { useLocation, useNavigate } from "react-router-dom"
 // import { MyContext } from "../context/MyContext";
-import { products } from '../../../../WMA ReactJS Assignments/React-Fast-Food-Collection-Page/reactjs-collection-page/src/data/product'
+import { products } from '../data/product'
 import useGlobal from "../context/useGlobal";
 
 function Collection() {
